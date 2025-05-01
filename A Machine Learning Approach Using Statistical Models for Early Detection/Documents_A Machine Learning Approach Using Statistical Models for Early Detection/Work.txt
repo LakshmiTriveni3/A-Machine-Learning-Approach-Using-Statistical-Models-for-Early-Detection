@@ -1,0 +1,38 @@
+Service Provider
+
+Login,
+Browse and Train & Test Traffic Data Sets, 
+View Trained and Tested Accuracy in Bar Chart, 
+View Trained and Tested Accuracy Results, 
+View Prediction Of Cardiac Arrest Type, 
+View Cardiac Arrest Type Prediction Ratio, 
+Download Predicted Data Sets, 
+View Cardiac Arrest Type Predicted Ratio Results, 
+View All Remote Users.
+
+
+Remote User
+
+
+REGISTER AND LOGIN,
+PREDICT DETECTION OF CARDIAC ARREST,
+VIEW YOUR PROFILE. 
+
+
+Members
+
+Fid,	
+Age_In_Days,	
+Sex,	
+ChestPainType,	
+RestingBP,	
+RestingECG,	
+MaxHR,	
+ExerciseAngina,	
+Oldpeak,	
+ST_Slope,	
+oldpeak,
+slp,	
+caa,	
+thall,	
+Prediction.
